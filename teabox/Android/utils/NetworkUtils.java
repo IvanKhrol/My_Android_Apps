@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 public class NetworkUtils {
     private static final String BASE_URL = "http://espcontrol.hopto.org";
-    public static final String FOR_FIND = "LED Status: ";
+    public  static final String FOR_FIND = "LED Status: ";
 
 //==================================================================================================================================
 
